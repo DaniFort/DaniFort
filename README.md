@@ -42,5 +42,6 @@
 
 <p>
   📧 Email: danifortdev@gmail.com
+  
   💼 LinkedIn: https://www.linkedin.com/in/danifortfranco/
 </p>
